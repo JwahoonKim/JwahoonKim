@@ -16,8 +16,8 @@
 
 <div align="center">
   
-  [![Jahni Blog](https://img.shields.io/badge/Jahni's_Blog-FF4785?style=flat&logo=tistory&logoColor=white)]([https://your-tistory-link](https://kjhoon0330.tistory.com/))
-  [![TIL](https://img.shields.io/badge/Today_I_Learned-1D29E4?style=flat&logo=pinboard&logoColor=white)](https://github.com/your-username/your-repo)
+  [![Jahni Blog](https://img.shields.io/badge/Jahni's_Blog-FF4785?style=flat&logo=tistory&logoColor=white)]((https://kjhoon0330.tistory.com/))
+  [![TIL](https://img.shields.io/badge/Today_I_Learned-1D29E4?style=flat&logo=pinboard&logoColor=white)]([https://github.com/your-username/your-repo](https://github.com/JwahoonKim/TIL))
 
 </div>
   
