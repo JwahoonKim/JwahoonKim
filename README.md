@@ -10,6 +10,15 @@
 <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJwahoonKim&count_bg=%23FF8B8B&title_bg=%23FFBABA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   
+
+
+</div>
+
+<div align="center">
+  
+  [![Jahni Blog](https://img.shields.io/badge/Jahni's_Blog-FF4785?style=flat&logo=tistory&logoColor=white)]([https://your-tistory-link](https://kjhoon0330.tistory.com/))
+  [![TIL](https://img.shields.io/badge/Today_I_Learned-1D29E4?style=flat&logo=pinboard&logoColor=white)](https://github.com/your-username/your-repo)
+
 </div>
   
   
@@ -30,6 +39,7 @@
   <br>
   <img src="https://img.shields.io/badge/Intellij-000000?logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
 </div>
 
 ## Have Used
