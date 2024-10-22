@@ -46,16 +46,16 @@
 
 <div style="display: inline_block" align="center">
   
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white">
+  
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?&logo=C++&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white">
 
   <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white">
+  
   
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
